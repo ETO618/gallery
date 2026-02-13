@@ -1,8 +1,17 @@
 {
   "gallery_title": "GALLERY",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-13 19:43:46",
+  "last_updated": "2026-02-13 19:57:52",
   "images": [
+    {
+      "file_hash": "3bfec096",
+      "date": "2025-12-21",
+      "title": "",
+      "description": "",
+      "category": "Event",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "58c44d4e",
       "date": "2025-12-21",
@@ -208,5 +217,6 @@
     "Landscape",
     "Group Photo",
     "Event"
-  ]
+  ],
+  "base_url": "https://ETO618.github.io/gallery"
 }
