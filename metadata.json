@@ -1,21 +1,23 @@
 {
   "gallery_title": "GALLERY",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-14 00:37:04",
+  "last_updated": "2026-02-14 21:23:43",
   "images": [
     {
       "file_hash": "e799905e",
       "date": "2026-02-08",
-      "title": "",
+      "title": "A1GP",
       "description": "",
       "category": "Event",
-      "tags": [],
+      "tags": [
+        "A1GP"
+      ],
       "photographer": ""
     },
     {
       "file_hash": "0bee81bd",
       "date": "2026-02-07",
-      "title": "",
+      "title": "A1GP",
       "description": "",
       "category": "Event",
       "tags": [],
@@ -24,7 +26,7 @@
     {
       "file_hash": "5f0f4570",
       "date": "2026-02-07",
-      "title": "",
+      "title": "A1GP",
       "description": "",
       "category": "Event",
       "tags": [],
@@ -33,10 +35,12 @@
     {
       "file_hash": "c845f26b",
       "date": "2026-02-01",
-      "title": "",
+      "title": "10月同期会ばちゃリーグ",
       "description": "",
       "category": "Event",
-      "tags": [],
+      "tags": [
+        "10月同期会"
+      ],
       "photographer": ""
     },
     {
@@ -89,7 +93,7 @@
       "date": "2025-12-28",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Group Photo",
       "tags": [],
       "photographer": ""
     },
@@ -107,7 +111,7 @@
       "date": "2025-12-28",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
@@ -134,7 +138,7 @@
       "date": "2025-12-24",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Group Photo",
       "tags": [],
       "photographer": ""
     },
@@ -152,7 +156,7 @@
       "date": "2025-12-21",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
@@ -170,7 +174,7 @@
       "date": "2025-12-07",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Group Photo",
       "tags": [],
       "photographer": ""
     },
@@ -179,7 +183,7 @@
       "date": "2025-11-29",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
@@ -287,7 +291,7 @@
       "date": "2025-11-20",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
@@ -314,7 +318,7 @@
       "date": "2025-11-16",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Event",
       "tags": [],
       "photographer": ""
     },
@@ -359,7 +363,7 @@
       "date": "2025-11-14",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
