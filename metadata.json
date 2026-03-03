@@ -1,7 +1,7 @@
 {
   "gallery_title": "GALLERY",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-15 01:14:38",
+  "last_updated": "2026-03-03 19:16:22",
   "images": [
     {
       "file_hash": "76c624f6",
@@ -15,9 +15,9 @@
     {
       "file_hash": "0be2bc6d",
       "date": "2026-02-15",
-      "title": "",
+      "title": "改変交換会",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Event",
       "tags": [],
       "photographer": ""
     },
@@ -546,5 +546,5 @@
     "Group Photo",
     "Event"
   ],
-  "base_url": "https://ETO618.github.io/gallery"
+  "base_url": "https://dash.cloudflare.com/2bfd1f857ab245ba94be76d3272ad57d/workers/services/view/gallery/production"
 }
